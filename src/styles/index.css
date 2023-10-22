@@ -22,7 +22,7 @@ body {
 }
 
 .presentation-div {
-  background-image: url("./assets/images/background/background-minimal.jpg");
+  background-image: url("@images/background/background-minimal.png");
   background-size: max(100% 100%);
   background-repeat: no-repeat;
   background-position: center;
@@ -30,7 +30,7 @@ body {
 }
 
 .astronaut-div {
-  background-image: url("./assets/images/background/black-minimal.jpg");
+  background-image: url("@images/background/black-minimal.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: min(360px);
@@ -39,12 +39,12 @@ body {
 }
 
 .divTimeline {
-  background-image: url("./assets/images/background/stars.jpg");
+  background-image: url("@images/images/background/stars.jpg");
   background-size: contain;
 }
 
 .projects-div {
-  background-image: url("./assets/images/background/stars.jpg");
+  background-image: url("@images/images/background/stars.jpg");
   background-size: contain;
 }
 
