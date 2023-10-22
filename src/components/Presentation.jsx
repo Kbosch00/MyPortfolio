@@ -9,8 +9,7 @@ function Presentation() {
     };
     return (
         <div
-            id='presentation-div'
-            className='pb-52'
+            className='presentation-div pb-52'
         >
             <div className='flex justify-center grid-cols-2 ssm:gap-x-4 sssm:gap-x-2 ssssm:gap-x-1 items-center md:mx-4'>
                 <img src="assets/images/perfil_2.jpg" className='object-cover object-top bg-zinc-50 p-1 sssm:w-52 sssm:h-52 ssssm:w-44 ssssm:h-44 sm:w-60 sm:h-60 ssm:mt-4 sm:mt-6 ssssm:mt-6 rounded-full hover:bg-neutral-500 hover:scale-105 transition duration-300 ease-in-out '

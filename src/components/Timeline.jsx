@@ -7,7 +7,7 @@ function Timeline() {
     return (
         <>
             <div className='bg-gradient-to-b from-[#0A0A0A] to-black h-20'></div>
-            <div id='divTimeline' className='flex justify-center gap-4 py-4 ssssm:mx-4 mmd:mx-0'>
+            <div className='divTimeline flex justify-center gap-4 py-4 ssssm:mx-4 mmd:mx-0'>
                 <div className="max-w-2xl bg-zinc-900 bg-opacity-40 pt-2 px-4 rounded-lg">
                     <span className='text-gray-300 text-xl tracking-wider font-bold font-alice'>Educación:</span>
                     <ol className="relative border-l border-gray-200 dark:border-violet-800 mt-2">

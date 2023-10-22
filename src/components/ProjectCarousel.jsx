@@ -25,7 +25,7 @@ function ProjectCarousel() {
     };
     return (
         <div className='grid justify-center'>
-            <div className=' bg-zinc-900 bg-opacity-40 p-4 rounded-lg transition-opacity duration-500 ease-in-out' x-data="{ show: true }">
+            <div className=' bg-zinc-900 bg-opacity-40 p-4 rounded-lg transition-opacity duration-500 ease-in-out'>
                 <span className='text-gray-300 text-xl tracking-wider font-bold font-alice'>Proyecto principal:</span>
                 <div className={`carousel mx-auto mt-4 rounded-lg ${!showDescription ? 'transition-all duration-500 ease-in-out opacity-100' : 'transition-all duration-500 ease-in-out opacity-0 hidden'
                     }`}>
