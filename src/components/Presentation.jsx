@@ -13,7 +13,7 @@ function Presentation() {
             className='pb-52'
         >
             <div className='flex justify-center grid-cols-2 ssm:gap-x-4 sssm:gap-x-2 ssssm:gap-x-1 items-center md:mx-4'>
-                <img src="src/assets/images/perfil_2.jpg" className='object-cover object-top bg-zinc-50 p-1 sssm:w-52 sssm:h-52 ssssm:w-44 ssssm:h-44 sm:w-60 sm:h-60 ssm:mt-4 sm:mt-6 ssssm:mt-6 rounded-full hover:bg-neutral-500 hover:scale-105 transition duration-300 ease-in-out '
+                <img src="assets/images/perfil_2.jpg" className='object-cover object-top bg-zinc-50 p-1 sssm:w-52 sssm:h-52 ssssm:w-44 ssssm:h-44 sm:w-60 sm:h-60 ssm:mt-4 sm:mt-6 ssssm:mt-6 rounded-full hover:bg-neutral-500 hover:scale-105 transition duration-300 ease-in-out '
                 />
                 <div className='sm:mt-8 ssssm:mt-2 ssssm:max-w-[8rem] sssm:max-w-[12rem] md:max-w-md'>
                     <span className='text-neutral-500 md:text-5xl ssssm:text-2xl sssm:text-4xl whitespace-nowrap font-alice font-bold'>Hola, soy <br className='' /></span>

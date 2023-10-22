@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { data } from '../assets/images/CashFlow-Manager/images'
+import { data } from './images.js'
 import { SlArrowLeft, SlArrowRight } from "react-icons/sl"
 import { AiFillGithub } from "react-icons/ai"
 
