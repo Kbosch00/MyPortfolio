@@ -1,12 +1,10 @@
 import React from 'react'
-import { motion } from "framer-motion";
-
 function Layout({ children }) {
     return (
         <>
-            <motion.div>
+            <div>
                 {children}
-            </motion.div>
+            </div>
         </>
     )
 }
